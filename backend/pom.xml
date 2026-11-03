@@ -17,6 +17,14 @@
     <name>Sys Cargas</name>
     <description>Sistema de transporte de cargas (reescritura del legacy Swing)</description>
 
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <properties>
         <java.version>25</java.version>
         <jasperreports.version>7.1.0</jasperreports.version>

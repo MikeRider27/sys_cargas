@@ -80,3 +80,15 @@ cd frontend && npm install && npm run dev                 # http://localhost:517
 
 El detalle de los errores del esquema legacy y sus correcciones está en [docs/CORRECCIONES_BD.md](docs/CORRECCIONES_BD.md).
 Backup: `docker compose exec db pg_dump -U cargas cargas > backup.sql`.
+
+## Autor
+
+-   **Miguel Villalba**
+-   📧 mike.mavc27@gmail.com
+
+------------------------------------------------------------------------
+
+## Licencia
+
+Este proyecto está bajo la licencia **MIT**. Ver el archivo
+[LICENSE](LICENSE) para más detalles.
